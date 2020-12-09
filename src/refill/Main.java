@@ -34,6 +34,7 @@ public class Main {
         System.out.println("Колонка 4: Обслужено машин: " + t4.gasst.GetCar());
 
         System.out.println("Общее количество машин: " + (t1.gasst.GetCar() + t2.gasst.GetCar() + t3.gasst.GetCar() + t4.gasst.GetCar()));
+        System.out.println("СПАСИБО ЧТО ПОСЛЕДНЯЯ ЛАБА");
 
     }
 }
